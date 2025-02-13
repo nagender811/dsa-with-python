@@ -1,0 +1,9 @@
+This document outlines the approach to solving various pattern problems in Data Structures and Algorithms (DSA).
+
+# Approach to Solving Patterns
+1. For the outer loop, count the number of lines
+2. For the inner loop, focus on the columns & convert them somehow to   the rows.
+3. print them '*' inside the owner for loop 
+4. observe symmetry (optional)
+
+
